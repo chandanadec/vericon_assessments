@@ -1,2 +1,2 @@
 # vericon_assessments
-This is the assesment provided by the vericon systems . 
+This is the assesment provided by Vericon systems . 
